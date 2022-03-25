@@ -1,4 +1,4 @@
-#!/Library/Frameworks/Python.framework/Versions/2.7/bin/python
+#!/opt/local/bin/python2.7
 # ipwndfu: open-source jailbreaking tool for older iOS devices
 # Author: axi0mX
 
